@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">UnitTest</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_name">Your name</string>
+    <string name="settings_dob">Your date of birth</string>
+    <string name="settings_email">Yor E-mail address</string>
 </resources>
