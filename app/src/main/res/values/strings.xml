@@ -4,4 +4,6 @@
     <string name="settings_name">Your name</string>
     <string name="settings_dob">Your date of birth</string>
     <string name="settings_email">Yor E-mail address</string>
+    <string name="settings_save">Save</string>
+    <string name="settings_retrieve">Retrieve</string>
 </resources>
